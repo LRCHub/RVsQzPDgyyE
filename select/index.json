@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "玉座の罠",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-21T15:43:38.991347Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "玉座の罠",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/01_玉座の罠_東京事変.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "玉座の罠",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_玉座の罠_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "玉座の罠",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_玉座の罠_東京事変.txt"
+    }
+  ]
+}
